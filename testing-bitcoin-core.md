@@ -15,6 +15,6 @@ After building, an executable called `test_bitcoin` is created. Running `test_bi
 ## Functional Tests
 To run the standard test suite, you can use 
 ```shell
-./test/functional/test_runner.py`
+./test/functional/test_runner.py
 ```
 For the extended test suite, use `--extended` and for all the options, use `--help`.
