@@ -22,4 +22,4 @@ Run the following commands to build:
 ./configure BDB_LIBS="-L${BDB_PREFIX}/lib -ldb_cxx-4.8" BDB_CFLAGS="-I${BDB_PREFIX}/include"
 make
 ```
-After building, the next step is to test.
+After building, the next step is to [test](testing-bitcoin-core.md).
